@@ -4,10 +4,10 @@ patches {
     about {
         name = "Cobalt Downloads"
         description = "Native cobalt downloads for patched YouTube"
-        source = "https://github.com/skulldogged/cobalt-morphe"
+        source = "https://github.com/bitflippr/cobalt-morphe"
         author = "Skulldogged"
         contact = "na"
-        website = "https://github.com/skulldogged/cobalt-morphe"
+        website = "https://github.com/bitflippr/cobalt-morphe"
         license = "GPLv3"
     }
 }
